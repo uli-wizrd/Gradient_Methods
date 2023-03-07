@@ -19,32 +19,32 @@ En estos sistemas los optimizadores se utilizan para reducir el error del modelo
     El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
     Trata sobre del uso de descenso por gradiente de vanilla en la optimizacion de una funcion multivariable convexa.
 
-    ### Descenso por gradiente 2D con derivada numerica (Gradient Descent 2D with numerical derivatives)
+### Descenso por gradiente 2D con derivada numerica (Gradient Descent 2D with numerical derivatives)
 
-    El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
-    Trata sobre el descenso por gradiente en una funcion que vive en un espacio bidimensional (cuando solo necesitas dos variables para describir tu sistema).
+El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
+Trata sobre el descenso por gradiente en una funcion que vive en un espacio bidimensional (cuando solo necesitas dos variables para describir tu sistema).
 
-    ### Descenso por Gradiente 3D (Gradient Descent 3D)
+### Descenso por Gradiente 3D (Gradient Descent 3D)
     
-    El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py)
+El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py)
     Trata sobre el uso del descenso por gradiente en una funcion que vive en un espacio tridimensional (Cada eje corresponde a una variable de interes)
 
-  ## 2.- Descenso por Gradiente Estocastico (Stochastic Gradient Descent)
+## 2.- Descenso por Gradiente Estocastico (Stochastic Gradient Descent)
 
   
-  El ejemplo trata sobre el uso del descenso por gradiente estocastico en funciones convexas y no convexas
+El ejemplo trata sobre el uso del descenso por gradiente estocastico en funciones convexas y no convexas
 
-  ## 3.- Sumthin
+## 3.- Sumthin
 
-  El tercero es un ejemplo del metodo empleado en la optimizacion de una funcion no convexa
+El tercero es un ejemplo del metodo empleado en la optimizacion de una funcion no convexa
 
-  ## 4.-Sumthin
+## 4.-Sumthin
 
-  El cuarto es un ejemplo del metodo empleado en la optimizacion de una funcion no convexa
+El cuarto es un ejemplo del metodo empleado en la optimizacion de una funcion no convexa
 
-  ## 5.-ADAM Optimizador Adaptativo de Momento (Adaptative Moment optimizer) 
+## 5.-ADAM Optimizador Adaptativo de Momento (Adaptative Moment optimizer) 
 
-  El Quinto es un ejemplo de la aplicacion del optimizador ADAM presentado en [cira] para una funcion no convexa
+El Quinto es un ejemplo de la aplicacion del optimizador ADAM presentado en [cira] para una funcion no convexa
 
 # Comparaciones (Comparatives)
 
