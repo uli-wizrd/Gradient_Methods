@@ -12,8 +12,8 @@ La razón es porque el contenido de este repositorio va orientado más hacia el 
 En estos sistemas los optimizadores se utilizan para reducir el error del modelo a la hora de hacer predicciones (inferencia).
 
   ## Descenso por Gradiente de vainilla (Gradient Descent vanilla flavour)
-  [Imagen de la ecuacion la imagen fue creada utilizando word]
-  [Definicion con cita]
+  Imagen de la ecuacion la imagen fue creada utilizando word
+  Definicion con cita
 
     ### Descenso por Gradiente 2D (Gradient Descent 2D)
     El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
