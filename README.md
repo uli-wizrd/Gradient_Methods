@@ -1,6 +1,6 @@
 # Fuentes y recursos (sources and resources)
 
-Todo el codigo presentado ha sido desarrollado siguiendo lo presentado en el curso de (Aprendizaje Automático)[http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html]
+Todo el codigo presentado ha sido desarrollado siguiendo lo presentado en el curso de ![Aprendizaje Automático](http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html)
 El curso mencionado es una herramienta invaluable para cualquiera interesado en el aprendizaje de máquina.
 Las definiciones de los métodos se obtuvieron de las páginas mencionadas en cada sección.
 
@@ -16,17 +16,17 @@ En estos sistemas los optimizadores se utilizan para reducir el error del modelo
   [Definicion con cita]
 
     ### Descenso por Gradiente 2D (Gradient Descent 2D)
-    El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
+    El ejemplo ![Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
     Trata sobre del uso de descenso por gradiente de vanilla en la optimizacion de una funcion multivariable convexa.
 
     ### Descenso por gradiente 2D con derivada numerica (Gradient Descent 2D with numerical derivatives)
 
-    El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
+    El ejemplo ![Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py) 
     Trata sobre el descenso por gradiente en una funcion que vive en un espacio bidimensional (cuando solo necesitas dos variables para describir tu sistema).
 
     ### Descenso por Gradiente 3D (Gradient Descent 3D)
     
-    El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py)
+    El ejemplo ![Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py)
     Trata sobre el uso del descenso por gradiente en una funcion que vive en un espacio tridimensional (Cada eje corresponde a una variable de interes)
 
   ## 2.- Descenso por Gradiente Estocastico (Stochastic Gradient Descent)
@@ -48,7 +48,7 @@ En estos sistemas los optimizadores se utilizan para reducir el error del modelo
 
 # Comparaciones (Comparatives)
 
-El ejemplo [Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py).
+El ejemplo ![Descenso por gradiente 2D](https://github.com/uli-wizrd/Gradient_Methods/blob/master/GD_CN2.py).
 Es una simulacion de como se comparan el descenso por gradiente, el descenso por gradiente estocastico, x, y y ADAM.
 La tarea fue encontrar el minimo de la funcion 3D (funcion).
 La funcion de la cual se quiere encontrar el minimo en este caso se conoce como funcion de perdida (loss function).
