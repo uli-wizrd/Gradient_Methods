@@ -1,6 +1,6 @@
 # Fuentes y recursos (sources and resources)
 
-Todo el codigo presentado ha sido desarrollado siguiendo lo presentado en el curso de <a href="http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html" target="_blank">Aprendizaje Automático <a>
+Todo el codigo presentado ha sido desarrollado siguiendo lo presentado en el curso de <a href="http://personal.cimat.mx:8181/~mrivera/cursos/temas_aprendizaje.html" target="_blank"> Aprendizaje Automático <a>
 El curso mencionado es una herramienta invaluable para cualquiera interesado en el aprendizaje de máquina.
 Las definiciones de los métodos se obtuvieron de las páginas mencionadas en cada sección.
 
